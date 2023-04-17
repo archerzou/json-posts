@@ -22,5 +22,5 @@ Builds the app for production to the `build` folder.\
 50 minutes for logic implementation<br>
 25 minutes working with bootstrap<br>
 20 minutes to refactor and clean up code<br>
-5 minute for README.md file
+5 minute for README.md file<br>
 10 minutes for live demo setup
